@@ -82,7 +82,7 @@ body {
 .player-score {
     text-align: center;
     font-size: 80px;
-    font-weight: 100;
+    font-weight: 300;
     color: #32b186;
     margin-bottom: 130px;
 }
@@ -92,7 +92,7 @@ body {
 }
 
 .active .player-name {
-    font-weight: 300;
+    font-weight: 600;
 }
 
 .active .player-name::after {
